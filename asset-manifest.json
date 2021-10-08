@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/Water-Tech-Pools-Maintenance/static/css/main.88a37a46.chunk.css",
-    "main.js": "/Water-Tech-Pools-Maintenance/static/js/main.11ab0f35.chunk.js",
-    "main.js.map": "/Water-Tech-Pools-Maintenance/static/js/main.11ab0f35.chunk.js.map",
+    "main.js": "/Water-Tech-Pools-Maintenance/static/js/main.f306f86d.chunk.js",
+    "main.js.map": "/Water-Tech-Pools-Maintenance/static/js/main.f306f86d.chunk.js.map",
     "runtime-main.js": "/Water-Tech-Pools-Maintenance/static/js/runtime-main.e485b893.js",
     "runtime-main.js.map": "/Water-Tech-Pools-Maintenance/static/js/runtime-main.e485b893.js.map",
-    "static/js/2.ad0e32af.chunk.js": "/Water-Tech-Pools-Maintenance/static/js/2.ad0e32af.chunk.js",
-    "static/js/2.ad0e32af.chunk.js.map": "/Water-Tech-Pools-Maintenance/static/js/2.ad0e32af.chunk.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/Water-Tech-Pools-Maintenance/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.d05ef348.chunk.js": "/Water-Tech-Pools-Maintenance/static/js/2.d05ef348.chunk.js",
+    "static/js/2.d05ef348.chunk.js.map": "/Water-Tech-Pools-Maintenance/static/js/2.d05ef348.chunk.js.map",
     "index.html": "/Water-Tech-Pools-Maintenance/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/Water-Tech-Pools-Maintenance/static/css/2.f4c56af9.chunk.css.map",
     "static/css/main.88a37a46.chunk.css.map": "/Water-Tech-Pools-Maintenance/static/css/main.88a37a46.chunk.css.map",
-    "static/js/2.ad0e32af.chunk.js.LICENSE.txt": "/Water-Tech-Pools-Maintenance/static/js/2.ad0e32af.chunk.js.LICENSE.txt",
+    "static/js/2.d05ef348.chunk.js.LICENSE.txt": "/Water-Tech-Pools-Maintenance/static/js/2.d05ef348.chunk.js.LICENSE.txt",
     "static/media/chemFeeding.86e6d6ee.png": "/Water-Tech-Pools-Maintenance/static/media/chemFeeding.86e6d6ee.png",
     "static/media/chlorineDisinfection.0fc31815.png": "/Water-Tech-Pools-Maintenance/static/media/chlorineDisinfection.0fc31815.png",
     "static/media/clarifier.2befd3bf.png": "/Water-Tech-Pools-Maintenance/static/media/clarifier.2befd3bf.png",
@@ -28,8 +30,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.e485b893.js",
-    "static/js/2.ad0e32af.chunk.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.d05ef348.chunk.js",
     "static/css/main.88a37a46.chunk.css",
-    "static/js/main.11ab0f35.chunk.js"
+    "static/js/main.f306f86d.chunk.js"
   ]
 }
