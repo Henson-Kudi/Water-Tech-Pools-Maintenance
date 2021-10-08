@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Water-Tech-Pools-Maintenance/static/css/main.88a37a46.chunk.css",
+    "main.js": "/Water-Tech-Pools-Maintenance/static/js/main.963b5900.chunk.js",
+    "main.js.map": "/Water-Tech-Pools-Maintenance/static/js/main.963b5900.chunk.js.map",
+    "runtime-main.js": "/Water-Tech-Pools-Maintenance/static/js/runtime-main.e485b893.js",
+    "runtime-main.js.map": "/Water-Tech-Pools-Maintenance/static/js/runtime-main.e485b893.js.map",
+    "static/js/2.ad0e32af.chunk.js": "/Water-Tech-Pools-Maintenance/static/js/2.ad0e32af.chunk.js",
+    "static/js/2.ad0e32af.chunk.js.map": "/Water-Tech-Pools-Maintenance/static/js/2.ad0e32af.chunk.js.map",
+    "index.html": "/Water-Tech-Pools-Maintenance/index.html",
+    "static/css/main.88a37a46.chunk.css.map": "/Water-Tech-Pools-Maintenance/static/css/main.88a37a46.chunk.css.map",
+    "static/js/2.ad0e32af.chunk.js.LICENSE.txt": "/Water-Tech-Pools-Maintenance/static/js/2.ad0e32af.chunk.js.LICENSE.txt",
+    "static/media/chemFeeding.86e6d6ee.png": "/Water-Tech-Pools-Maintenance/static/media/chemFeeding.86e6d6ee.png",
+    "static/media/chlorineDisinfection.0fc31815.png": "/Water-Tech-Pools-Maintenance/static/media/chlorineDisinfection.0fc31815.png",
+    "static/media/clarifier.2befd3bf.png": "/Water-Tech-Pools-Maintenance/static/media/clarifier.2befd3bf.png",
+    "static/media/construction.a1e06de4.jpg": "/Water-Tech-Pools-Maintenance/static/media/construction.a1e06de4.jpg",
+    "static/media/filterAndPump.b907ac4d.png": "/Water-Tech-Pools-Maintenance/static/media/filterAndPump.b907ac4d.png",
+    "static/media/filteration.ffa925a5.png": "/Water-Tech-Pools-Maintenance/static/media/filteration.ffa925a5.png",
+    "static/media/footerImage.7dbdb79a.jpg": "/Water-Tech-Pools-Maintenance/static/media/footerImage.7dbdb79a.jpg",
+    "static/media/heatAndCoolingPump.13fd1d21.png": "/Water-Tech-Pools-Maintenance/static/media/heatAndCoolingPump.13fd1d21.png",
+    "static/media/interiorAndExteriorDesign.1b8e8a21.jpg": "/Water-Tech-Pools-Maintenance/static/media/interiorAndExteriorDesign.1b8e8a21.jpg",
+    "static/media/leisureProducts.a980d8eb.png": "/Water-Tech-Pools-Maintenance/static/media/leisureProducts.a980d8eb.png",
+    "static/media/logo.27956032.png": "/Water-Tech-Pools-Maintenance/static/media/logo.27956032.png",
+    "static/media/osmosisSystem.27ed214e.png": "/Water-Tech-Pools-Maintenance/static/media/osmosisSystem.27ed214e.png",
+    "static/media/saltChlorinator.e42d424e.png": "/Water-Tech-Pools-Maintenance/static/media/saltChlorinator.e42d424e.png",
+    "static/media/treatmentChem.033892a9.png": "/Water-Tech-Pools-Maintenance/static/media/treatmentChem.033892a9.png",
+    "static/media/uvSystem.9b1f2851.png": "/Water-Tech-Pools-Maintenance/static/media/uvSystem.9b1f2851.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e485b893.js",
+    "static/js/2.ad0e32af.chunk.js",
+    "static/css/main.88a37a46.chunk.css",
+    "static/js/main.963b5900.chunk.js"
+  ]
+}
