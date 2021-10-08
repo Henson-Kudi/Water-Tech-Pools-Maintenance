@@ -1,0 +1,48 @@
+.About {
+  width: 80%;
+  margin: 0 auto;
+  text-align: justify;
+  overflow: hidden;
+}
+
+.About .introHeading {
+  padding: 1rem;
+}
+
+.aboutServices .aboutServicesHeading {
+  padding: 0.5rem;
+}
+
+.aboutServices dt {
+  font-weight: bold;
+  padding: 0.5rem;
+}
+
+dd ul li {
+  list-style: circle;
+  margin-left: 1rem;
+  padding: 0.5rem;
+}
+
+.imgContainer {
+  display: grid;
+  justify-content: center;
+  max-width: 100%;
+}
+
+.imgContainer img {
+  max-width: 100%;
+}
+
+.statementOfHealth {
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.statementOfHealth h2 {
+  padding: 0.5rem;
+}
+
+.statementOfHealth .healthPolicy {
+  text-align: center;
+}

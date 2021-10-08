@@ -1,0 +1,52 @@
+.formContainer {
+  padding: 2rem;
+  background: rgb(2, 2, 34);
+  border-radius: 1rem;
+  color: #ffffff;
+}
+
+.formContainer .formElement {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.formContainer .formElement input,
+.formContainer .formElement textarea {
+  font-size: 2rem;
+  padding: 1rem;
+  margin: 1rem;
+}
+
+.formElement textarea {
+  width: 100%;
+  font-family: "Montserrat", sans-serif;
+}
+
+.submitOptions {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+}
+
+.submitOptions .btn {
+  padding: 1rem;
+  margin: 0 1rem;
+  font-size: 1.8rem;
+  border-radius: 0.8rem;
+  border: 1px solid transparent;
+}
+
+.btnCancel {
+  background-color: #000000;
+  color: #ffffff;
+}
+.btnSubmit {
+  background-color: rgb(31, 31, 187);
+  color: #ffffff;
+}
+
+.emptyInput {
+  border: 1px solid red;
+}

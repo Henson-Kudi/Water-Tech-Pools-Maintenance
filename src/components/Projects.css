@@ -1,0 +1,63 @@
+.Projects {
+  width: 80%;
+  margin: 0 auto;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1rem;
+  justify-content: center;
+}
+
+.elementGrid {
+  position: relative;
+  width: 300px;
+  margin: 0 auto;
+  /* height: 300px; */
+  cursor: pointer;
+  border: 1px solid rgba(128, 128, 128, 0.3);
+}
+
+.elementGrid .imageContainer img {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.elementGrid .imageTitle {
+  position: absolute;
+  bottom: -3rem;
+  width: 100%;
+  background-color: white;
+  padding: 2rem 0.5rem;
+  overflow: hidden;
+  text-transform: capitalize;
+  visibility: hidden;
+  transition: bottom 0.5s linear;
+  text-align: center;
+  cursor: pointer;
+}
+
+.elementGrid:hover .imageTitle {
+  visibility: visible;
+  bottom: 0;
+}
+
+.viewAll {
+  text-align: right;
+  padding: 0;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.viewAllBtn {
+  border: unset;
+  background-color: unset;
+  color: rgb(32, 32, 156);
+}
+
+@media screen and (max-width: 768px) {
+  .elementGrid .imageTitle {
+    visibility: visible;
+    bottom: 0;
+    padding: 1rem;
+  }
+}

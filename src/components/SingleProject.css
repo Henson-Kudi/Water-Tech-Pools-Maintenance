@@ -1,0 +1,63 @@
+.projectDetailTop {
+  background: radial-gradient(
+        circle at 0% 50%,
+        rgba(1, 1, 29, 1) 9px,
+        rgba(0, 0, 0, 1) 10px,
+        rgba(1, 1, 29, 1) 11px
+      )
+      0px 10px,
+    radial-gradient(
+      at 100% 100%,
+      rgba(1, 1, 29, 1) 9px,
+      rgba(0, 0, 0, 0.2) 10px,
+      rgba(1, 1, 29, 1) 11px
+    ),
+    #8a3;
+  background-size: 20px 20px;
+  color: #fff;
+  padding: 3rem 3rem 5rem;
+  height: 40rem;
+}
+
+.projectTitle {
+  padding: 2rem;
+  text-transform: capitalize;
+}
+
+.projectHashtags span {
+  padding: 0.5rem;
+  margin: 2rem;
+  background-color: orange;
+  border-radius: 0.5rem;
+}
+
+.projectDetailBottom {
+  width: 80%;
+  margin: -20rem auto 0.1rem;
+}
+
+.projectImageContainer {
+  width: 100%;
+}
+
+.projectImageContainer img {
+  width: 100%;
+}
+
+.projectDescription {
+  padding: 2rem;
+  text-align: justify;
+  font-size: 2.3rem;
+}
+
+@media screen and (max-width: 850px) {
+  .projectDetailTop {
+    padding: 2rem 2rem 4rem;
+    height: 25rem;
+  }
+
+  .projectDetailBottom {
+    width: 90%;
+    margin: -8rem auto 0.1rem;
+  }
+}

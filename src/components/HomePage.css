@@ -1,0 +1,95 @@
+a {
+  text-decoration: none;
+  color: #000000;
+}
+
+.homePage {
+  padding: 0 0 1rem;
+}
+
+.topScreen {
+  width: 50%;
+  margin: 0 auto;
+  text-align: left;
+  padding: 2rem 0;
+}
+
+.topScreen > .caption {
+  font-size: 6rem;
+  padding: 1rem 0;
+}
+
+.topScreen .descriptionText {
+  padding: 1rem 0 2rem;
+  font-size: 2rem;
+}
+
+.btnPrimary {
+  border-radius: 1rem;
+  background-color: rgba(0, 0, 255, 0.7);
+  border-color: transparent;
+  font-size: 2rem;
+  font-weight: bold;
+  color: #ffffff;
+  padding: 1rem;
+  cursor: pointer;
+}
+
+.gridContainer {
+  width: 80%;
+  margin: 0 auto;
+  justify-content: center;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+}
+
+.objectives {
+  padding: 2.5rem 1rem 0rem;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.objectives h1 {
+  padding: 1rem;
+}
+
+.howWeWork {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  width: 80%;
+  margin: 1rem auto;
+  padding: 2rem;
+}
+
+.howWeWork .grid-item {
+  border: 1px solid rgba(128, 128, 128, 0.3);
+  transition: transform 0.5s linear;
+}
+
+.howWeWork .grid-item:hover {
+  transform: scale(1.02);
+}
+
+.howWeWork .grid-item .image-container {
+  width: 100%;
+  height: 200px;
+  overflow: hidden;
+  position: relative;
+}
+
+.howWeWork .grid-item .image-container img {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  left: 0;
+}
+
+.explain h3 {
+  padding: 2rem;
+}
+
+.explain p {
+  padding: 0 2rem 2rem;
+}

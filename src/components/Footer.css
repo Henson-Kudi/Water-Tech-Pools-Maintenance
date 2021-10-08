@@ -1,0 +1,95 @@
+.FooterTop {
+  position: relative;
+}
+
+.Footer {
+  width: 80%;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.footerInfo {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1rem;
+}
+
+.footerImageCont {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding: 1rem;
+  overflow: hidden;
+}
+
+.footerImageCont img {
+  width: 100%;
+}
+
+.footerInfoText {
+  padding: 1rem;
+  text-align: left;
+}
+
+.footerInfoText h2 {
+  font-size: 3.5rem;
+  padding: 1rem;
+}
+
+.footerInfoText p {
+  font-size: 2.5rem;
+  padding: 1rem;
+}
+
+.contactInfos {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 2rem;
+  margin-top: 2rem;
+  background-color: rgb(54, 163, 192);
+  text-align: left;
+}
+
+.contactInfos p {
+  padding: 1rem;
+}
+
+.linkItem {
+  color: rgba(0, 0, 255, 0.7);
+  cursor: pointer;
+}
+
+@media screen and (max-width: 850px) {
+  .contactInfos {
+    display: block;
+  }
+
+  .footerInfo {
+    display: block;
+  }
+
+  .footerImageCont {
+    position: relative;
+    width: 80%;
+    height: 30rem;
+    margin: 0 auto;
+  }
+
+  .socialMediaIcons {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .contactUsHeading {
+    display: none;
+  }
+
+  .footerInfoText h2 {
+    font-size: 2.5rem;
+  }
+
+  .footerInfoText p {
+    font-size: 2rem;
+  }
+}

@@ -1,0 +1,32 @@
+.gridItem {
+  width: 350px;
+  height: 350px;
+  margin: 0 auto;
+  position: relative;
+  border: 1px solid rgba(128, 128, 128, 0.3);
+}
+
+.gridItem img {
+  width: 100%;
+  height: 100%;
+  cursor: pointer;
+}
+
+.gridItem .gridItemTitle {
+  position: absolute;
+  bottom: -2rem;
+  padding: 2rem 0.5rem;
+  background-color: #ffffff;
+  width: 100%;
+  overflow: hidden;
+  text-transform: capitalize;
+  visibility: hidden;
+  transition: bottom 0.5s linear;
+  text-align: center;
+  cursor: pointer;
+}
+
+.gridItem:hover .gridItemTitle {
+  visibility: visible;
+  bottom: 0rem;
+}
