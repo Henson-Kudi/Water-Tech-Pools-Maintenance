@@ -10,6 +10,7 @@ import SingleProject from './components/SingleProject';
 import About from './components/About'
 
 function App() {
+
   return (
     <Router>
       <Switch>
